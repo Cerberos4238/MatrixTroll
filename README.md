@@ -15,4 +15,4 @@ Enter the user password :
 
 Now the mouse and the keyboard are unusable and you're stuck with a matrix screensaver. You have to restart you're computer to get back to normal.
 
-This tool is perfect to troll your friends or your colleagues but be careful that all work is saved ^^.
+This tool is perfect to troll your friends and your colleagues but be careful that all work is saved ^^.
