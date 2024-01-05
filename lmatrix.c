@@ -5,7 +5,7 @@
 #include <signal.h>
 #include <X11/Xlib.h>
 
-#define DELAY 50000 // Microseconds
+#define MY_DELAY 50000 // Microseconds
 #define TRAIL_LENGTH 5 // Longueur des traînées
 
 typedef struct {
@@ -119,7 +119,7 @@ int main() {
     while (!quit) {
         updateColumns(columns, num_columns, max_y);
         displayColumns(columns, num_columns, max_y);
-        usleep(DELAY);
+        usleep(MY_DELAY);
     }
 
     // Restaure l'environnement terminal avant de quitter
