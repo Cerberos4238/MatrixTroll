@@ -1,3 +1,4 @@
+//gcc lmatrix.c -o lmatrix -lncurses -lX11
 #include <ncurses.h>
 #include <stdlib.h>
 #include <unistd.h>
