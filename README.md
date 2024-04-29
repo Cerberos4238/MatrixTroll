@@ -3,7 +3,7 @@ A little matrix ScreenSaver troll for Debian/Ubuntu terms made in C
 
 Be sure to have X11/Xlib.h installed ( apt install libx11-dev )
 
-Compile the lmatrix.c file
+Compile the lmatrix.c file with the compile.sh file
 
 Make a sudo chmod +x "filecompilated"
 
