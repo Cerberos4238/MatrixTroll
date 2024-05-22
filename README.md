@@ -1,5 +1,5 @@
 # MatrixTroll
-A little matrix ScreenSaver troll for Debian/Ubuntu terms made in C 
+A little matrix ScreenSaver troll for Debian/Ubuntu terminal.
 
 Be sure to have X11/Xlib.h installed ( apt install libx11-dev )
 
